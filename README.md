@@ -6,5 +6,5 @@ Exercises and code snippets from Problem Solving with Algorithims and Data Struc
 ## Chapter 3: Basic Data Structures 
 ## Chapter 4: Recursion 
 ## Chapter 5: Sorting and Searching 
-## Chapter 6: Treess and Tree Algorithms 
+## Chapter 6: Trees and Tree Algorithms 
 ## 
