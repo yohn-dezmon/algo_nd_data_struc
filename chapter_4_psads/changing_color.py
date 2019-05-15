@@ -1,3 +1,6 @@
+# my modifications allow the smallest of branches to be a different color (Green)
+# representing leaves
+
 import turtle
 
 def tree(branchLen,t, pensize):
